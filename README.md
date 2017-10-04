@@ -10,11 +10,10 @@
 2. Click the "Login with Facebook"
 3. To see all photos of album  click on the name of Album.
 4. To download Photos of Album Click the "Download Icon" on the left top most side.
-5. To download photos from multiple Album "First Select the Album from which you want to download the album and then Click on Download Multiple Album Button on Above the Album List".
+5. To download photos from multiple Album "First Select the Album from which you want to download 
+the Album and then Click on Download Multiple Album Button on Above the Album List".
 6. To Copy your Facebook Album on Your Google Drive you need to Click "Login With Google" Button.
 7. To Move your one Album into Google Drive just clikc "G+" Icon next to the "Download Icon".
 8. To Move Some of your Album "Select the Album" then Press the "Move to Drive" Button.
 9. You can Move all Your Album into Google Drive  by Clicking "Move all to Drive"
-```
-
-
+``
