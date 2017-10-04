@@ -16,4 +16,4 @@ the Album and then Click on Download Multiple Album Button on Above the Album Li
 7. To Move your one Album into Google Drive just clikc "G+" Icon next to the "Download Icon".
 8. To Move Some of your Album "Select the Album" then Press the "Move to Drive" Button.
 9. You can Move all Your Album into Google Drive  by Clicking "Move all to Drive"
-``
+```
